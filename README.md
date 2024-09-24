@@ -9,9 +9,8 @@
 </ol>
 1. Create your virtual environment
    
-
-3. Acitvate your virtual environment
-   .\VA_env\Scripts\activate
+- Acitvate your virtual environment
+   - .\VA_env\Scripts\activate
 
 4. Install all the requirements
    pip install -r requirements.txt
