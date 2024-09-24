@@ -1,6 +1,6 @@
 # Virtual-Assisstant
 
-1. Create your virtual environment \\
+1. Create your virtual environment \n
    python -m venv <name of your virtual environment say VA_env>
 
 2. Acitvate your virtual environment
