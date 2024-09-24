@@ -1,10 +1,14 @@
 # Virtual-Assisstant
 <ol>
-   <li>Create your virtual environment</li>
+   <li>Create your virtual environment
+      <li>
+         python -m venv <name of your virtual environment say VA_env>
+      </li>
+   </li>
    
 </ol>
 1. Create your virtual environment
-   python -m venv <name of your virtual environment say VA_env>
+   
 
 3. Acitvate your virtual environment
    .\VA_env\Scripts\activate
